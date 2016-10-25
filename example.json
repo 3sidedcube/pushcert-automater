@@ -1,0 +1,9 @@
+{
+	"apps":[
+		{
+      		"name" : "App Name",
+      		"bundleID" : "com.example.example"
+    	}
+	],
+	"teamID":"YOUR_TEAM_ID"
+}
